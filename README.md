@@ -1,4 +1,4 @@
-# JavaScript-for-PS
+﻿# JavaScript-for-PS
 Useful JavaScript for Photoshop
 
 
@@ -56,7 +56,7 @@ git remote add origin push到远程仓库,同时设置跟踪分支,下次push的
 
 push就醒了,系统会自动用本地master分支跟踪远程master分支.
 
-git remote add origin https://github.com/janehoart/new.git
+git remote add origin https://github.com/janehoart/JavaScript-for-PS.git
 
 git push -u origin master
 
