@@ -1,5 +1,6 @@
 # JavaScript-for-PS
 Useful JavaScript for Photoshop
+
 /*
 在github上创建一个仓库 ,得到库的地址
 仓库HTTP格式地址为：https://github.com/janehoart/JavaScript-for-PS.git
